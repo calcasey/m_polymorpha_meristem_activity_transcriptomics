@@ -1,6 +1,6 @@
 # mpolymorpha_meristem_activity_transcriptomics
 
-This repository contains the code and metadata files that are required to reproduce the transcriptomic analysis performed in [Spencer V., Casey C., Dolan L. et al. 2025]() to identify genes that are differentially expressed between inactive and active meristems in *Marchantia polymorpha*. 
+This repository contains the code and metadata files that are required to reproduce the transcriptomic analysis performed in [Spencer V., Casey C., Dolan L. et al. 2025. The cytochrome P450 enzyme MpCYP78E1 inhibits meristem initiation and activity in *Marchantia polymorpha*. bioRxiv.](https://doi.org/10.1101/2025.04.28.651025) to identify genes that are differentially expressed between inactive and active meristems in *Marchantia polymorpha*. 
 
 
 ## Analysis workflow
